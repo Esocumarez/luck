@@ -46,3 +46,20 @@ body {
 		margin: 0px;
 	}
 }
+
+.jumbotron {
+	background-image: url('jumbotron.jpg');
+	height: 317px;
+	h1 {
+	    text-align: center;
+    	margin: -40px;
+}
+	h2{
+	margin-left: 330px;
+	margin-top: 50px;
+} 
+	h1, h2{
+	font-family: guardian-egyptt, georgia, serif;
+	}
+
+}
